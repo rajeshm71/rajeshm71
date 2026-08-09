@@ -18,28 +18,28 @@
 
 ### About
 
-I'm an AI / GenAI Engineer based in India. I build production-grade LLM systems — retrieval, agents, evals, and the plumbing around them — and I ship consumer-facing AI products end-to-end. I also share what I learn with **20,000+ followers on LinkedIn** through daily AI breakdowns and playbooks.
+I'm an AI / GenAI Engineer based in India. I build production grade LLM systems: retrieval, agents, evals, and the plumbing around them. I also ship consumer facing AI products end to end and share what I learn with **20,000+ followers on LinkedIn** through daily AI breakdowns and playbooks.
 
 ### 🛠️ Currently building
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Zenaique** | AI-native interview prep — auto-generated questions, tiered explanations, mastery tracking | Next.js · TypeScript · LLM pipelines · Supabase |
-| **Topgenaijobs** | Curated GenAI jobs board with AI-assisted matching | TypeScript · Next.js |
-| **StorySavi** | Long-form AI story generation with structured plot planning | TypeScript · LLMs |
-| **Rankora** | SEO intelligence tool — content and keyword insights powered by LLMs | TypeScript · LLMs |
-| **CreoVio** | AI LinkedIn carousel generator — turn ideas into publish-ready decks | LLMs · Design systems |
-| **StudySnap** | Learning that finally makes sense — turns any material into digestible study units | Python · LLMs |
+| **Zenaique** | AI native interview prep with auto generated questions, tiered explanations, and mastery tracking | Next.js · TypeScript · LLM pipelines · Supabase |
+| **Topgenaijobs** | Curated GenAI jobs board with AI assisted matching | TypeScript · Next.js |
+| **StorySavi** | Long form AI story generation with structured plot planning | TypeScript · LLMs |
+| **Rankora** | SEO intelligence tool. Content and keyword insights powered by LLMs | TypeScript · LLMs |
+| **CreoVio** | AI LinkedIn carousel generator. Turn ideas into publish ready decks | LLMs · Design systems |
+| **StudySnap** | Learning that finally makes sense. Turns any material into digestible study units | Python · LLMs |
 
-<sub>Currently private while in active development — happy to walk through architecture on request.</sub>
+<sub>Currently private while in active development. Happy to walk through architecture on request.</sub>
 
 ### 📦 Selected public work
 
-- **[chatdocxx](https://github.com/rajeshm71/chatdocxx)** — Chat with your documents (RAG)
-- **[Visual_Question_Answering_System](https://github.com/rajeshm71/Visual_Question_Answering_System)** — Multimodal VQA
-- **[PerfectVideo](https://github.com/rajeshm71/PerfectVideo)** — AI video toolkit
-- **[Comet_Cerebrium](https://github.com/rajeshm71/Comet_Cerebrium)** — MLOps experiments
-- **[Network_Intrusion_Detection_System](https://github.com/rajeshm71/Network_Intrusion_Detection_System)** — Classical ML security
+- **[chatdocxx](https://github.com/rajeshm71/chatdocxx)**: Chat with your documents (RAG)
+- **[Visual_Question_Answering_System](https://github.com/rajeshm71/Visual_Question_Answering_System)**: Multimodal VQA
+- **[PerfectVideo](https://github.com/rajeshm71/PerfectVideo)**: AI video toolkit
+- **[Comet_Cerebrium](https://github.com/rajeshm71/Comet_Cerebrium)**: MLOps experiments
+- **[Network_Intrusion_Detection_System](https://github.com/rajeshm71/Network_Intrusion_Detection_System)**: Classical ML security
 
 ### 🧰 Stack
 
@@ -51,7 +51,7 @@ I'm an AI / GenAI Engineer based in India. I build production-grade LLM systems 
 
 ### ✍️ Writing
 
-I break down GenAI, agents, and LLM engineering daily on LinkedIn — recent posts routinely hit **20K–30K impressions**. If you want short, high-signal AI reads: **[follow me on LinkedIn →](https://www.linkedin.com/in/rajeshmane711/)**
+I break down GenAI, agents, and LLM engineering daily on LinkedIn. Recent posts routinely hit **20K to 30K impressions**. For short, useful AI reads: **[follow me on LinkedIn →](https://www.linkedin.com/in/rajeshmane711/)**
 
 ---
 
