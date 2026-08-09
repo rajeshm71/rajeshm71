@@ -24,6 +24,7 @@ I'm an AI / GenAI Engineer based in India. I build production grade LLM systems:
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[ChatRaj](https://chatraj.com)** | AI chatbot SaaS for any website. Train it on your content, embed in one line, answer visitors in 100+ languages with cited answers | TypeScript · Multi stage AI search · LLMs |
 | **Zenaique** | AI native interview prep with auto generated questions, tiered explanations, and mastery tracking | Next.js · TypeScript · LLM pipelines · Supabase |
 | **Topgenaijobs** | Curated GenAI jobs board with AI assisted matching | TypeScript · Next.js |
 | **StorySavi** | Long form AI story generation with structured plot planning | TypeScript · LLMs |
@@ -31,7 +32,7 @@ I'm an AI / GenAI Engineer based in India. I build production grade LLM systems:
 | **CreoVio** | AI LinkedIn carousel generator. Turn ideas into publish ready decks | LLMs · Design systems |
 | **StudySnap** | Learning that finally makes sense. Turns any material into digestible study units | Python · LLMs |
 
-<sub>Currently private while in active development. Happy to walk through architecture on request.</sub>
+<sub>Most are private while in active development. Happy to walk through architecture on request.</sub>
 
 ### 📦 Selected public work
 
