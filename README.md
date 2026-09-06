@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajeshmane711/">
-    <img src="https://img.shields.io/badge/LinkedIn-20K%2B%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-23K%2B%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rajeshmane711@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajeshmane711%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -18,14 +18,14 @@
 
 ### About
 
-I'm an AI / GenAI Engineer based in India. I build production grade LLM systems: retrieval, agents, evals, and the plumbing around them. I also ship consumer facing AI products end to end and share what I learn with **20,000+ followers on LinkedIn** through daily AI breakdowns and playbooks.
+I'm an AI / GenAI Engineer based in India. I build production grade LLM systems: retrieval, agents, evals, and the plumbing around them. I also ship consumer facing AI products end to end and share what I learn with **23,000+ followers on LinkedIn** through daily AI breakdowns and playbooks.
 
 ### 🛠️ Currently building
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Zenaique](https://zenaique.com)** | AI native interview prep with auto generated questions, tiered explanations, and mastery tracking | Next.js · TypeScript · LLM pipelines · Supabase |
-| **[Topgenaijobs](https://topgenaijobs.com)** | Curated GenAI jobs board with AI assisted matching | TypeScript · Next.js |
+| **[Zenaique](https://zenaique.com)** | AI interview and exam prep with tiered answers, company specific question packs, spaced repetition, and per topic mastery tracking | Next.js · TypeScript · LLM pipelines · Supabase |
+| **[Topgenaijobs](https://topgenaijobs.com)** | Job board for GenAI and agentic AI roles, with verified listings and filters by skill, location, and experience | TypeScript · Next.js |
 | **[ChatRaj](https://chatraj.com)** | AI chatbot SaaS for any website. Train it on your content, embed in one line, answer visitors in 100+ languages with cited answers | TypeScript · Multi stage AI search · LLMs |
 | **StorySavi** | Long form AI story generation with structured plot planning | TypeScript · LLMs |
 | **Rankora** | SEO intelligence tool. Content and keyword insights powered by LLMs | TypeScript · LLMs |
@@ -34,13 +34,11 @@ I'm an AI / GenAI Engineer based in India. I build production grade LLM systems:
 
 <sub>Most are private while in active development. Happy to walk through architecture on request.</sub>
 
-### 📦 Selected public work
+### 📦 Featured Projects
 
-- **[chatdocxx](https://github.com/rajeshm71/chatdocxx)**: Chat with your documents (RAG)
-- **[Visual_Question_Answering_System](https://github.com/rajeshm71/Visual_Question_Answering_System)**: Multimodal VQA
-- **[PerfectVideo](https://github.com/rajeshm71/PerfectVideo)**: AI video toolkit
-- **[Comet_Cerebrium](https://github.com/rajeshm71/Comet_Cerebrium)**: MLOps experiments
-- **[Network_Intrusion_Detection_System](https://github.com/rajeshm71/Network_Intrusion_Detection_System)**: Classical ML security
+- **[real-world-agents](https://github.com/rajeshm71/real-world-agents)**: Deployable AI agents for real-world use cases, each one demonstrating a different technique, structured to be easy to read and copy into your own project.
+- **[ai-engineer-roadmap](https://github.com/rajeshm71/ai-engineer-roadmap)**: A curated learning path from Python basics to production AI: classical ML, deep learning, LLMs, agents, and RAG, one recommended resource per topic.
+- **[rag-recipes](https://github.com/rajeshm71/rag-recipes)**: 10 RAG patterns as runnable notebooks, benchmarked on the same corpus and eval set.
 
 ### 🧰 Stack
 
