@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajeshmane711/">
-    <img src="https://img.shields.io/badge/LinkedIn-23K%2B%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-28K%2B%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rajeshmane711@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajeshmane711%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -18,7 +18,7 @@
 
 ### About
 
-I'm an AI / GenAI Engineer based in India. I build production grade LLM systems: retrieval, agents, evals, and the plumbing around them. I also ship consumer facing AI products end to end and share what I learn with **23,000+ followers on LinkedIn** through daily AI breakdowns and playbooks.
+I'm an AI / GenAI Engineer based in India. I build production grade LLM systems: retrieval, agents, evals, and the plumbing around them. I also ship consumer facing AI products end to end and share what I learn with **28,000+ followers on LinkedIn** through daily AI breakdowns and playbooks.
 
 ### 🛠️ Currently building
 
